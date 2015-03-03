@@ -1,0 +1,14 @@
+1) Git filters out unnecessary information. Differences are formatted clearly.
+
+2) Debugging becomes easier. I can take risks, knowing that previous versions of my code exist, and experiment with them.
+
+3) While saving manually, each step is logical. You get more flexibility. But it is risky. User error can complicate things. Saving automatically makes sures you always save. This is good for backup. But the steps might not always be sensible. You could get incomplete saves.
+
+4) Saving multiple files simultaneously allows you to track global changes, while saving each file separately requires less tracking.
+
+5) Git log allows you to see a record of the various commits in a repository.
+Git diff compares two commits by their ids and displays additions/deletions.
+
+6) Version control allows one to take more risks but also be responsible with changes.
+
+7) Git will be useful for keeping track of projects and maintaining progress.
