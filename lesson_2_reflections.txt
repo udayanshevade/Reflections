@@ -1,0 +1,3 @@
+Q1_ What happens when you initialize a repository? Why do you need to do it?
+A_ A .git file is created and meta data regarding the repository is stored. No commits are initially made and the files are untracked. You must add which files are to be tracked manually. This allows you to choose which files to track.
+
