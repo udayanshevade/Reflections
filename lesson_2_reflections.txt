@@ -1,3 +1,6 @@
 Q1_ What happens when you initialize a repository? Why do you need to do it?
-A_ A .git file is created and meta data regarding the repository is stored. No commits are initially made and the files are untracked. You must add which files are to be tracked manually. This allows you to choose which files to track.
+A_ A .git file is created and meta data regarding the repository is stored. No commits are initially made and the files are untracked. You must add which files are to be tracked manually. This allows you to choose which files to store.
+
+Q2_ How can you use the staging area to make sure you have one commit per logical change?
+A_ The staging area allows us to check what files are being tracked, changed or committed. It acts as an intermediate step before creating a commit, which provides more control. You can compare files in the staging area with the repository, to confirm what changes you want to commit. You can also compare the staging area with the working directory, to see if any files have changed or need to be added.
 
