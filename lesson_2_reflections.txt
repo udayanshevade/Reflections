@@ -9,3 +9,6 @@ A_ Branches are useful for trying out new lines of thought. If you're experiment
 
 Q4_ How do the diagrams help you visualize the branch structure?
 A_ Since the structure is prone to complexity, it is a good idea to visualize the branches using a diagram. Being able to trace parents, identify key nodes are all good consequences of thinking this way.
+
+Q5_ What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A_ Merging the two branches makes a new commit which references both files as its parents. The different files are then summed together.
