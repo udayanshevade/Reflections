@@ -12,3 +12,6 @@ A_ Since the structure is prone to complexity, it is a good idea to visualize th
 
 Q5_ What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A_ Merging the two branches makes a new commit which references both files as its parents. The different files are then summed together.
+
+Q6_ What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A_ While automatic merging takes care of the gritty work for you, it can also potentially lead to errors and conflicts. There is no obvious goal-oriented procedure for merging for machines yet, so doing merges manually might be safer with more sensitive work.
