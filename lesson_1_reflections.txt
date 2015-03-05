@@ -18,4 +18,4 @@ Q6_ How might using version control make you more confident to make changes that
 Version control allows one to take more risks but also be responsible with changes. Since a record of most recent working backups is maintained, you can freely experiment with features on different branches.
 
 Q7_ Now that you have your workspace set up, what do you want to try using Git for?
-A_ Git will be useful for keeping track of projects and maintaining progress on projects, as well as for collaborating or displaying a portfolio.
+A_ Git will be useful for keeping track of projects and maintaining progress on projects, as well as for collaborating.
