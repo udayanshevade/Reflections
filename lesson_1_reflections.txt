@@ -1,14 +1,21 @@
-1) Git filters out unnecessary information. Differences are formatted clearly.
+Q1_ How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A_ Git filters out unnecessary information. Differences are formatted clearly.
 
-2) Debugging becomes easier. I can take risks, knowing that previous versions of my code exist, and experiment with them.
+Q2_ How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A_ Debugging becomes easier. I can take risks, knowing that previous versions of my code exist, and experiment with them.
 
-3) While saving manually, each step is logical. You get more flexibility. But it is risky. User error can complicate things. Saving automatically makes sures you always save. This is good for backup. But the steps might not always be sensible. You could get incomplete saves.
+Q3_ What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+A_ While saving manually, each step is logical. You get more flexibility. But it is risky. User error can complicate things. Saving automatically makes sures you always save. This is good for backup. But the steps might not always be sensible. You could get incomplete saves.
 
-4) Saving multiple files simultaneously allows you to track global changes, while saving each file separately requires less tracking.
+Q4_ Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+A_ Saving multiple files simultaneously allows you to track global changes, while saving each file separately requires less tracking.
 
-5) Git log allows you to see a record of the various commits in a repository.
-Git diff compares two commits by their ids and displays additions/deletions.
+Q5_ How can you use the commands git log and git diff to view the history of files?
+A_ Git log allows you to see a record of the various commits in a repository.
+Git diff compares two commits by their ids and displays additions/deletions. Without specifying any ids, git diff also shows the difference between the staging area and the working directory.
 
-6) Version control allows one to take more risks but also be responsible with changes.
+Q6_ How might using version control make you more confident to make changes that could break something?
+Version control allows one to take more risks but also be responsible with changes. Since a record of most recent working backups is maintained, you can freely experiment with features on different branches.
 
-7) Git will be useful for keeping track of projects and maintaining progress.
+Q7_ Now that you have your workspace set up, what do you want to try using Git for?
+A_ Git will be useful for keeping track of projects and maintaining progress on projects, as well as for collaborating or displaying a portfolio.
