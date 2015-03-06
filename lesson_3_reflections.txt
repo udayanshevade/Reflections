@@ -3,3 +3,6 @@ A_ You would create a remote repository when you want to save your files externa
 
 Q2_ Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A_ For the same reason as committing manually, changes that are incomplete might get updated. Things you don't want shared yet might become open to the public.
+
+Q3_ Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A_ A branch is a unique avenue of commits. A clone is a branch that is copied from one source to another. And lastly, a fork is a built-in type of clone hosted on GitHub, which provides a way of preserving the original source and lessens the work required.
