@@ -12,3 +12,6 @@ A_ Having a copy locally allows us to have an offline version which we can then 
 
 Q5_ How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A_ I would use some form of online file hosting service or email. This could get tedious and messy. Organizing files would need effort and repetitive work.
+
+Q6_ When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A_ A separate branch allows changes to be made without affecting the master branch. It also follows a protocol for collaboration, in which changes are not made directly, but through a filter of requests. While changing the master directly would be faster and certainly considerable if one were working alone, it is a better idea to create a separate branch.
