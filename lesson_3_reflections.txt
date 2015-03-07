@@ -9,3 +9,6 @@ A_ A branch is a unique avenue of commits. A clone is a branch that is copied fr
 
 Q4_ What is the benefit of having a copy of the last known state of the remote stored locally?
 A_ Having a copy locally allows us to have an offline version which we can then compare later to a changed remote. It may also act as a backup to ensure changes are recorded and an independent history is stored.
+
+Q5_ How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A_ I would use some form of online file hosting service or email. This could get tedious and messy. Organizing files would need effort and repetitive work.
