@@ -6,3 +6,6 @@ A_ For the same reason as committing manually, changes that are incomplete might
 
 Q3_ Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A_ A branch is a unique avenue of commits. A clone is a branch that is copied from one source to another. And lastly, a fork is a built-in type of clone hosted on GitHub, which provides a way of preserving the original source and lessens the work required.
+
+Q4_ What is the benefit of having a copy of the last known state of the remote stored locally?
+A_ Having a copy locally allows us to have an offline version which we can then compare later to a changed remote. It may also act as a backup to ensure changes are recorded and an independent history is stored.
